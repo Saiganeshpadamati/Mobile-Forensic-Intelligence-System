@@ -1,7 +1,7 @@
-# ForensicX – Mobile Forensic Intelligence System
+# Mobile Forensic Intelligence System
 
 ## About
-ForensicX is a Python-based mobile forensic intelligence platform designed to support authorized digital investigations. It helps collect, analyze, manage, and generate reports from mobile forensic evidence.
+Mobile Forensic Intelligence System is a Python-based mobile forensic intelligence platform designed to support authorized digital investigations. It helps collect, analyze, manage, and generate reports from mobile forensic evidence.
 
 ## Features
 - Android device acquisition using ADB.
